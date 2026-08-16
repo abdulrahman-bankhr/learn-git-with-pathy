@@ -1,0 +1,6 @@
+create acount in github
+connect git with github
+command with git to save file ex: init
+intinalize to save the changes of all files with use: add
+connect git with vs code
+connect github with vs code
