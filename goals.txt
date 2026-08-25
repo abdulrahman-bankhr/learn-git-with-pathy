@@ -4,3 +4,5 @@ command with git to save file ex: init
 intinalize to save the changes of all files with use: add
 connect git with vs code
 connect github with vs code
+put frist my project in github
+put frist my project in github
